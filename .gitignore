@@ -1,0 +1,9 @@
+.venv/
+config.json
+__pycache__/
+*.pyc
+logs/
+evidence/
+pentaho/ingestion.kjb
+*.bak
+backups/
